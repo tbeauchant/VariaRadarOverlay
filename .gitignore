@@ -1,0 +1,30 @@
+# Built artifacts
+build/
+app/build/
+*.apk
+*.aar
+*.ap_
+*.der
+
+# Gradle files
+.gradle/
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+
+# OS / System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Signing files
+*.jks
+*.keystore
+
+# Log files
+*.log

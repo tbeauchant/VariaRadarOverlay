@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Brand Palette (Deep space theme) -->
+    <color name="bg_dark">#080C14</color>
+    <color name="bg_card">#121A2A</color>
+    <color name="primary">#8B5CF6</color> <!-- Neon Violet -->
+    <color name="primary_variant">#6366F1</color> <!-- Indigo -->
+    <color name="accent">#06B6D4</color> <!-- Cyan -->
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#F9FAFB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_muted">#4B5563</color>
+    
+    <!-- Threat Levels (Vibrant Neon Glows) -->
+    <color name="threat_clear">#059669</color> <!-- Emerald Green -->
+    <color name="threat_medium">#D97706</color> <!-- Warm Amber -->
+    <color name="threat_high">#DC2626</color> <!-- Intense Red -->
+    <color name="threat_off">#4B5563</color> <!-- Dark Gray -->
+    
+    <!-- UI Helpers -->
+    <color name="divider">#1E293B</color>
+    <color name="ripple_light">#30FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

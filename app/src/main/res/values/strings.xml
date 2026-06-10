@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Varia Radar Overlay</string>
+    <string name="radar_service_status">Radar Overlay Status</string>
+    <string name="service_running">Radar Overlay Service is running</string>
+    <string name="notification_channel_name">Radar Service Channel</string>
+    
+    <!-- Main screen -->
+    <string name="title_activity_main">Varia Radar Overlay Settings</string>
+    <string name="permission_required_title">Permissions Required</string>
+    <string name="permission_required_desc">This application requires Bluetooth, Location, and Overlay permissions to detect your Garmin Varia radar and display the threat overlay on top of other apps.</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="bluetooth_scanning">Scanning for Garmin Varia...</string>
+    <string name="radar_settings">Radar Settings</string>
+    <string name="start_service">Start Overlay Service</string>
+    <string name="stop_service">Stop Overlay Service</string>
+    <string name="no_devices_found">No Garmin Varia devices found. Put your radar in pairing mode (LED blinking blue/red).</string>
+    <string name="select_device">Select your Garmin Varia device:</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_scanning">Scanning...</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_connected">Connected</string>
+    
+    <!-- Settings options -->
+    <string name="overlay_settings">Overlay Display Settings</string>
+    <string name="overlay_size">Overlay Width</string>
+    <string name="overlay_transparency">Overlay Opacity</string>
+    <string name="audio_alerts">Enable Sound Alerts</string>
+    <string name="audio_alerts_desc">Beep when a new vehicle is detected</string>
+
+    <!-- Exit overlay dialog -->
+    <string name="exit_overlay_title">Exit Overlay</string>
+    <string name="exit_overlay_message">Do you want to stop the radar service and close the overlay?</string>
+    <string name="exit_overlay_yes">Exit</string>
+    <string name="exit_overlay_no">Cancel</string>
+</resources>

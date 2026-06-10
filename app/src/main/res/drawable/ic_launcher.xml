@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Dark Background -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M0,0 h108 v108 h-108 z" />
+    
+    <!-- Radar Rings -->
+    <path
+        android:strokeColor="#8B5CF6"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m-40,0 a40,40 0,1,1 80,0 a40,40 0,1,1 -80,0" />
+        
+    <path
+        android:strokeColor="#6366F1"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m-25,0 a25,25 0,1,1 50,0 a25,25 0,1,1 -50,0" />
+
+    <!-- Center Radar Dot -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M54,54 m-6,0 a6,6 0,1,1 12,0 a6,6 0,1,1 -12,0" />
+        
+    <!-- Approaching Car Threat (Red glow) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M54,26 m-4,0 a4,4 0,1,1 8,0 a4,4 0,1,1 -8,0" />
+        
+</vector>

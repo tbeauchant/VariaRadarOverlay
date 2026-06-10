@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Varia Radar Overlay</string>
+    <string name="radar_service_status">Statut de l\'overlay radar</string>
+    <string name="service_running">Le service Radar Overlay est en cours d\'exécution</string>
+    <string name="notification_channel_name">Canal du service Radar</string>
+    
+    <!-- Main screen -->
+    <string name="title_activity_main">Paramètres Varia Radar Overlay</string>
+    <string name="permission_required_title">Autorisations requises</string>
+    <string name="permission_required_desc">Cette application nécessite les autorisations Bluetooth, Position et Superposition pour détecter votre radar Garmin Varia et afficher l\'overlay au-dessus des autres applications.</string>
+    <string name="grant_permissions">Accorder les autorisations</string>
+    <string name="bluetooth_scanning">Recherche du Garmin Varia...</string>
+    <string name="radar_settings">Paramètres du radar</string>
+    <string name="start_service">Démarrer le service d\'overlay</string>
+    <string name="stop_service">Arrêter le service d\'overlay</string>
+    <string name="no_devices_found">Aucun appareil Garmin Varia trouvé. Mettez votre radar en mode couplage (LED clignotant bleu/rouge).</string>
+    <string name="select_device">Sélectionnez votre appareil Garmin Varia :</string>
+    <string name="status_disconnected">Déconnecté</string>
+    <string name="status_scanning">Recherche...</string>
+    <string name="status_connecting">Connexion...</string>
+    <string name="status_connected">Connecté</string>
+    
+    <!-- Settings options -->
+    <string name="overlay_settings">Paramètres d\'affichage de l\'overlay</string>
+    <string name="overlay_size">Largeur de l\'overlay</string>
+    <string name="overlay_transparency">Opacité de l\'overlay</string>
+    <string name="audio_alerts">Activer les alertes sonores</string>
+    <string name="audio_alerts_desc">Bip lorsqu\'un nouveau véhicule est détecté</string>
+
+    <!-- Exit overlay dialog -->
+    <string name="exit_overlay_title">Quitter l\'overlay</string>
+    <string name="exit_overlay_message">Voulez-vous arrêter le service de radar et fermer l\'overlay ?</string>
+    <string name="exit_overlay_yes">Quitter</string>
+    <string name="exit_overlay_no">Annuler</string>
+</resources>
