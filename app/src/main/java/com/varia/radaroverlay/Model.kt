@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright (C) 2026 JJ del Rio
+// From bike-radar-docs. Modified for this app.
+// Licence text: LICENSES/Apache-2.0.txt
 package com.varia.radaroverlay
 
 enum class VehicleSize { BIKE, CAR, TRUCK }
