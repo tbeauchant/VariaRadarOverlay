@@ -18,6 +18,12 @@ An Android application that connects to a Garmin Varia radar (such as the RTL515
 
 ---
 
+## Credits
+
+This projects makes use of [bike-radar-docs](https://github.com/partymola/bike-radar-docs) from [partymola](https://github.com/partymola), thumbs up to him 👍
+
+---
+
 ## ⚡ Vibe Coding Note
 > [!NOTE]  
 > This application is **vibe coded** with Antigravity/Gemini. I am not an Android developer, so this app may have some issues. Please use it at your own risk.
